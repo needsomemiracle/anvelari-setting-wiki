@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "fonts": {
+      "source": "github:quartz-community/fonts",
+      "resolved": "https://github.com/quartz-community/fonts.git",
+      "commit": "727cdfe3f65a97c4aff9bdbd13787b455fb870e3",
+      "installedAt": "2026-11-19T20:18:18.361Z"
+    },
+    "quartz-leaflet-bases-plugin": {
+      "source": "github:Requiae/quartz-leaflet-bases-plugin",
+      "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
+      "commit": "48da13cf01ba6d742e616da2e837fd2a9478ac79",
+      "installedAt": "2026-11-08T19:14:28.488Z"
+    }
+  }
+}
